@@ -4,7 +4,91 @@ The current unit topics are listed below in the **Unit Topics** section followed
 
 ### Unit Topics
 
+1. **If Statements**
+2. **If-Else Statements**
+3. **If-Else-If Statements**
+4. **Boolean Expressions**
+   - Evaluating expressions that produce `true` or `false`.
+5. **Boolean Operators (`&&`, `||`, `!`)**
+   - Combining and negating Boolean expressions using AND, OR, and NOT.
+6. **Nested If Statements**
+7. **Boolean Algebra**
+   - Simplifying and manipulating logical expressions.
+8. **De Morgan's Laws**
+   - Rewriting Boolean expressions by negating and swapping AND/OR operators.
+9. **Control Flow**
+   - Tracing the order in which statements execute as a program makes decisions.
+10. **Short-Circuit Evaluation**
+    - Understanding how Java skips evaluating the second operand of `&&` or `||` when the result is already determined.
+11. **While Loops**
+12. **For Loops**
+13. **Loop Tracing**
+    - Determining how many times a loop executes and how variable values change during iteration.
+14. **Nested Loops**
+15. **Recursion**
+    - Understanding how methods call themselves to solve problems.
+16. **Base Cases and Recursive Cases**
+    - Identifying when recursion stops and how each recursive call moves toward that stopping point.
+
 ### Previous Topics Covered
+
+* D-A-T-A
+  * Data is stored as 0s and 1s
+  * Bytes are interpreted differently depending on the type
+    * file types with different extensions
+    * what does the byte 0100 0001 mean?
+      * "A", 65, ...
+  * Programs 
+    1. start with some data
+    2. manipulate the data
+    3. output the results
+  * Input, processing, output
+* data types - int, double
+  * public static void main string args
+  * JVM - runs/executes the code
+  * Compiler - compiles the code, class files, java bytecode
+  * What is a variable
+* Arithmetic operators
+  * + - * / % () ++ --
+  * order of operations
+  * int vs double with operators
+  * inputs and outputs with operators
+    * common pattern (parameters, arguments, return values)
+  * casting, limits, exception
+* What is a class
+  * Grouping data together
+  * Define new custom data type
+  * instance variables store the data
+  * constructor creates the variable
+    * called instance/object
+  * constructor parameters
+  * instantiate the object with new
+  * pass in arguments
+* Class details
+  * creating custom data types
+  * use arithmetic operators in constructors
+  * define instantiation, parameters, arguments
+  * difference between class and object
+* Private, public, this, information hiding
+* Memory and variable scope
+  * stack/heap primitive, reference, instance variables
+  * exceptions
+    * NullPointerException - null instance variable
+* Strings
+  * length
+  * what is a method
+  * charAt - argument, return
+* More string methods 
+  * substring, indexOf, equals, compareTo, charAt, toUpperCase, toLowerCase
+  * StringIndexOutOfBoundsException
+* Custom class methods
+  * public vs private
+  * pre/post conditions
+* Custom class methods
+  * static
+  * NullPointerException
+* Math/Integer libs
+  * methods
 
 ### Do Not Include Topics
 
